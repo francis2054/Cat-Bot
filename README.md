@@ -1,3 +1,7 @@
+<p align="center">
+  Simply a fork of https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop for my own use
+</p>
+
 <h1 align="center">
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
